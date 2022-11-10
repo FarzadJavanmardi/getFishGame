@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Game-getFish:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Game_getFish_jar</output-path>
+    <root id="archive" name="Game-getFish.jar">
+      <element id="module-output" name="Game-getFish" />
+      <element id="extracted-dir" path="D:/Library/downoad part2/jlayer.jarr/jlayer-1.0.1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Library/downoad part2/jlayer.jarr/junit-3.8.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
